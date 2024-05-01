@@ -1,16 +1,17 @@
-### Hi there 👋
+Olá! Eu sou o Almir Júnior 👋
 
-<!--
-**almirwagnerjr/almirwagnerjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Hoje estou trabalhando com front-end
+- 🌱 estudando python
+- 😄 Pronouns: ele/dele
+
+<div> 
+    <a href="https://github.com/almirwagnerjr">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=almirwagnerjr&show_icons=true&theme=transparent" />
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)" />
+</div>
+  
+
+![MuaKissGIF](https://github.com/almirwagnerjr/almirwagnerjr/assets/50550679/d414e90f-2c03-4660-85da-dd5ef873983d)
+
